@@ -1,1 +1,1 @@
-
+**Lyme disease**, a tick-borne illness, has become an increasingly significant public health concern in the United States. This project aims to analyze the distribution, trends, and risk factors associated with Lyme disease infections across the country.
